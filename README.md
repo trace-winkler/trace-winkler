@@ -15,5 +15,4 @@ A project that visualizes how the reintroduction of two-high shell defense affec
 - Statistics
 - Factors of Human Performance
 
-The purpose of this "Data Science Portfolio" repository is to showcase my projects and experience in the field of Data Science as I continue learning at the University of North Carolina at Charlotte. 
-Please feel free to contact me at my [LinkedIn](https://www.linkedin.com/in/trace-winkler-1970843a9/) if you have any questions, or would like to chat!
+Please don't hesitate to connect with me at my [LinkedIn](https://www.linkedin.com/in/trace-winkler-1970843a9/). Also, feel free to reach out if you have any questions!
