@@ -1,16 +1,19 @@
-## Hi there 👋
+## Welcome to my GitHub!
 
-<!--
-**trace-winkler/trace-winkler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My name is Trace, and I am an upcoming Data Scientist. 
 
-Here are some ideas to get you started:
+I have a deep desire to use Data Science and Data Visualization in order to help casual sports fans gain a deeper understanding of Sports Statistics. I'd love to be able to make Statistics both accessible and understandable for anybody who has the desire to learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# I'm currently working on...
+A project that visualizes how the reintroduction of two-high shell defense affected how NFL organizations draft quarterbacks in the first two rounds of the NFL draft
+
+# My Interests:
+- Sports Statistics
+- Data Science
+- Real-Time Statistical Analysis
+- Sports Analytics
+- Statistics
+- Factors of Human Performance
+
+The purpose of this "Data Science Portfolio" repository is to showcase my projects and experience in the field of Data Science as I continue learning at the University of North Carolina at Charlotte. 
+Please feel free to contact me at my [LinkedIn](https://www.linkedin.com/in/trace-winkler-1970843a9/) if you have any questions, or would like to chat!
