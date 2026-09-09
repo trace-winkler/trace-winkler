@@ -1,5 +1,5 @@
 # Welcome to my GitHub!
-
+## Personal Introduction
 Hello! My name is Trace, and I am an upcoming Data Scientist with a passion for all things sports.
 
 Through my education at UNC Charlotte, I've learned that I have a deep desire to use Data Science and Data Visualization in order to help casual sports fans gain a deeper understanding of Sports Statistics. I truly enjoy collecting and analyzing Data that relates to sports. It's incredibly interesting to me to see how predictive models can be used to determine specific player and team performances, either for an entire season or a single game. I'd love to be able to make Statistics both accessible and understandable for anybody who has the desire to learn.
