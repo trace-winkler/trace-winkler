@@ -17,4 +17,5 @@ A project that visualizes how the reintroduction of two-high shell defense affec
 - Statistics
 - Factors of Human Performance
 
+### Contact Me Here!
 Please don't hesitate to connect with me at my [LinkedIn](https://www.linkedin.com/in/trace-winkler-1970843a9/). Also, feel free to reach out if you have any questions!
