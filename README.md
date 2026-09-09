@@ -5,7 +5,7 @@ Hello! My name is Trace, and I am an upcoming Data Scientist.
 I have a deep desire to use Data Science and Data Visualization in order to help casual sports fans gain a deeper understanding of Sports Statistics. I'd love to be able to make Statistics both accessible and understandable for anybody who has the desire to learn.
 
 ## I'm currently working on...
-A project that visualizes how the reintroduction of two-high shell defense affected how NFL organizations draft quarterbacks in the first two rounds of the NFL draft
+A project that visualizes how the reintroduction of two-high shell defense affected how NFL organizations draft quarterbacks in the first two rounds of the NFL draft.
 
 ## My Interests:
 - Sports Statistics
