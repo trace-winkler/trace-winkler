@@ -7,7 +7,7 @@ Through my education at UNC Charlotte, I've learned that I have a deep desire to
 I am currently a Student Manager for the UNCC Baseball Team, and I hope to be able to use the experience I gain in my career. I've truly enjoyed the experience, and I'm excited as the team ramps up for the start of the season in February! Go Niners!
 
 ## I'm currently working on...
-A project that visualizes how the reintroduction of two-high shell defense affected how NFL organizations draft quarterbacks in the first two rounds of the NFL draft.
+A project that visualizes how the reintroduction of two-high shell defense affected how NFL organizations draft quarterbacks in the first two rounds of the NFL draft. Feel free to check on my thought process and my progress [here](Project1.md).
 
 ## My Interests:
 - Sports Statistics
