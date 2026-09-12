@@ -9,6 +9,10 @@ I am currently a Student Manager for the UNCC Baseball Team, and I hope to be ab
 ## I'm currently working on...
 A project that visualizes how the reintroduction of two-high shell defense affected how NFL organizations draft quarterbacks in the first two rounds of the NFL draft. Feel free to check on my thought process and my progress on Project 1 --> [here](https://github.com/trace-winkler/data-science-portfolio/blob/main/projects/Project1.md).
 
+### And...
+
+An easy program that outputs an NFL offensive skill positions players statistics when their name or team is inputted. It's a simple program, but I collected the data myself, which was a lot of fun.  
+
 ## My Interests:
 - Sports Statistics
 - Data Science
